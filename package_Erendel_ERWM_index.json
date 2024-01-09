@@ -14,7 +14,7 @@
                 "architecture": "avr",
                 "version": "1.0.2",
                 "category": "SAMD21G18",
-                "url": "https://github.com/Ulises-AdameER/Erendel_Systems/blob/169a224494824375eaede66ccd74e9171f32723c/ERWM_V4.zip",
+                "url": "https://github.com/Ulises-AdameER/Erendel_Systems/releases/tag/new/download/ERWM_V4.zip",
                 "archiveFileName": "ERWM_V4.zip",
                 "checksum": "SHA-256:a73e4a0422620750700079127dea997d95fd9d2c9d2624fdf979c4d43c7f9efa",
                 "size": "423275",
