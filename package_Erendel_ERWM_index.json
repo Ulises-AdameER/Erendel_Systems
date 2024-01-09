@@ -1,0 +1,44 @@
+{
+    "pakages": [
+        {
+            "name": "ERWM_V4",
+            "maintainer": "Erendel_Systems",
+            "websiteURL": "",
+            "email": "",
+            "help": {
+                "online": ""
+            },
+        "platforms": [
+            {
+                "name": "ERWM_V4_Boards",
+                "architecture": "avr",
+                "version": "1.0.2",
+                "category": "SAMD21G18",
+                "url": "https://github.com/Ulises-AdameER/Erendel_Systems/blob/169a224494824375eaede66ccd74e9171f32723c/ERWM_V4.zip",
+                "archiveFileName": "ERWM_V4.zip",
+                "checksum": "SHA-256:a73e4a0422620750700079127dea997d95fd9d2c9d2624fdf979c4d43c7f9efa",
+                "size": "423275",
+                "boards": [
+                    {"name": "ERWM_V4_ARDUINO" }
+                ],
+                "toolsDependencies": [
+                    {
+                        "packager": "arduino",
+                        "name": "avr-gcc",
+                        "version": "7.3.0-amtel3.6.1-arduino7"
+                    },
+                    {
+                        "packager": "arduino",
+                        "name": "avrdude",
+                        "version": "6.3.0-arduino17"
+                    }
+                    
+                ]
+
+
+            }
+        
+            ]
+        }
+    ]
+}
